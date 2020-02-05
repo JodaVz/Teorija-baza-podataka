@@ -1,0 +1,17 @@
+C:\Users\Korisnik\source\repos\TBP_Skladiste\TBP_Skladiste\bin\Debug\TBP_Skladiste.exe.config
+C:\Users\Korisnik\source\repos\TBP_Skladiste\TBP_Skladiste\bin\Debug\TBP_Skladiste.exe
+C:\Users\Korisnik\source\repos\TBP_Skladiste\TBP_Skladiste\bin\Debug\TBP_Skladiste.pdb
+C:\Users\Korisnik\source\repos\TBP_Skladiste\TBP_Skladiste\bin\Debug\Npgsql.dll
+C:\Users\Korisnik\source\repos\TBP_Skladiste\TBP_Skladiste\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Korisnik\source\repos\TBP_Skladiste\TBP_Skladiste\bin\Debug\Npgsql.pdb
+C:\Users\Korisnik\source\repos\TBP_Skladiste\TBP_Skladiste\bin\Debug\Npgsql.xml
+C:\Users\Korisnik\source\repos\TBP_Skladiste\TBP_Skladiste\obj\Debug\TBP_Skladiste.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\TBP_Skladiste\TBP_Skladiste\obj\Debug\TBP_Skladiste.MainForm.resources
+C:\Users\Korisnik\source\repos\TBP_Skladiste\TBP_Skladiste\obj\Debug\TBP_Skladiste.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\TBP_Skladiste\TBP_Skladiste\obj\Debug\TBP_Skladiste.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\TBP_Skladiste\TBP_Skladiste\obj\Debug\TBP_Skladiste.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\TBP_Skladiste\TBP_Skladiste\obj\Debug\TBP_Skladiste.csproj.CopyComplete
+C:\Users\Korisnik\source\repos\TBP_Skladiste\TBP_Skladiste\obj\Debug\TBP_Skladiste.exe
+C:\Users\Korisnik\source\repos\TBP_Skladiste\TBP_Skladiste\obj\Debug\TBP_Skladiste.pdb
+C:\Users\Korisnik\source\repos\TBP_Skladiste\TBP_Skladiste\obj\Debug\TBP_Skladiste.WarehouseNoviArtikl.resources
+C:\Users\Korisnik\source\repos\TBP_Skladiste\TBP_Skladiste\obj\Debug\TBP_Skladiste.GlavnaStatistikaSkladista.resources
